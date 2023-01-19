@@ -1,14 +1,12 @@
-RButton:: ; bind key to start it
+e:: ; bind key to start it
 Loop {
 Send n
-MouseMove, 0
+MouseMove, x1, y2, 0, ; you will need to find the xy coordinates of the players report button next to their name using the coordinate script
 Send {LButton}
-MouseMove, x, y, 0,
-Send Hacker!! ; the reason if u want, if not remove this
-MouseMove, x2, y2, 0,
+MouseMove, x2, y2, 0, ; you will need to find the xy coordinates of the report button
 Sleep 1000 ; sleep because ratelimit
 }
 return
 
-e:: Pause
+f:: Pause
 End:: ExitApp
