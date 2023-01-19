@@ -20,3 +20,6 @@ Press F1 and F2
 # Chance
 There's not a high chance of this working to be able to get the player report unless you write a paragraph explaining why they are being unfair to you or other players.
 this might be bannable.
+
+video
+https://img.guildedcdn.com/ContentMediaGenericFiles/e5d6b495d9ba13dc65b4353f03473269-Full.mp4?w=1920&h=1080
